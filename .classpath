@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/Parth Shah/workspace/ERP/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Parth Shah/workspace/ERP/javax.servlet-3.0.0.v201112011016-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Parth Shah/workspace/ERP/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Parth Shah/workspace/ERP/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Parth Shah/workspace/ERP/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
