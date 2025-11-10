@@ -70,7 +70,7 @@ Each function is represented as a module accessible from the home interface:
 
 ## 🖼️ Screenshot
 
-![ERP Home Dashboard](https://smatter.app/ERP_Home.png)
+![ERP Home Dashboard](https://smatter.app/ERP-Home.png)
 
 ---
 
